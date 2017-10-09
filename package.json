@@ -1,0 +1,17 @@
+{
+  "name": "CryptoExample",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Leyijia Technical Team",
+  "description": "Crypto Example",
+  "main": "",
+  "engines": {
+    "node": ">=6.11.0"
+  },
+  "scripts": {},
+  "dependencies": {
+    "jsrsasign": "^8.0.4",
+    "ursa": "^0.9.4"
+  },
+  "devDependencies": {}
+}
