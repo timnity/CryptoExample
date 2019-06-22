@@ -1,14 +1,7 @@
 # CryptoExample
-公钥、私钥生成及加解密样例
 
-make RSA keypair ： 用于生成rsa公私钥
+包含工作中不同阶段遇到的加解密需求和实践
 
-rsaCrypto with keypair ：直接代码中生成公私钥，并且加解密
+#### [原有的老的 RSA 公私钥生成和加解密方法](https://github.com/timnity/CryptoExample/blob/master/OldWay/Outline.md)
 
-rsaCrypto no keypair：使用外部公私钥进行加解密，如第一步make出来的公私钥
-
-desCrypto：用DES来对字符串进行加解密的样例
-
-md5Encrypt：md5是摘要，不可逆的，因此这里主要就是摘要一段字符串
-
-#### [详细加密文字描述见这里](https://github.com/timnity/SkillTree/blob/master/Crypto/Outline.md)
+#### [详细加解密说明和样例见这里](https://github.com/timnity/SkillTree/blob/master/Crypto/Outline.md)
